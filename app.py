@@ -5,7 +5,7 @@ import pandas as pd
 import numpy as np
 
 st.set_page_config(
-    page_title='Akku-Dashboard',
+    page_title='Aadil_Book_Recommendation',
     layout='wide'
 )
 st.title('Book Recommender System')
